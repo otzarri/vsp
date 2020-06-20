@@ -17,6 +17,7 @@ cat <<EOF
   "telemetry.enableCrashReporter": false,
   "telemetry.enableTelemetry": false,
   "workbench.colorTheme": "GitHub Dark",
+  "git.autofetch": true,
 }
 EOF
 }
