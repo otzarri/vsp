@@ -1,0 +1,43 @@
+{
+  "bin": "code",
+  "extensions": {
+    "bash": [
+      "ccimage.jsonviewer",
+      "christian-kohler.path-intellisense",
+      "eamodio.gitlens",
+      "GitHub.github-vscode-theme",
+      "redhat.vscode-yaml",
+      "yzhang.markdown-all-in-one"
+    ],
+    "go": [
+      "ccimage.jsonviewer",
+      "christian-kohler.path-intellisense",
+      "eamodio.gitlens",
+      "GitHub.github-vscode-theme",
+      "golang.Go",
+      "redhat.vscode-yaml",
+      "yzhang.markdown-all-in-one"
+    ],
+    "hugo": [
+      "budparr.language-hugo-vscode",
+      "bungcip.better-toml",
+      "ccimage.jsonviewer",
+      "christian-kohler.path-intellisense",
+      "eamodio.gitlens",
+      "funkyremi.vscode-google-translate",
+      "GitHub.github-vscode-theme",
+      "redhat.vscode-yaml",
+      "streetsidesoftware.code-spell-checker",
+      "yzhang.markdown-all-in-one"
+    ],
+    "kube": [
+      "ccimage.jsonviewer",
+      "christian-kohler.path-intellisense",
+      "eamodio.gitlens",
+      "GitHub.github-vscode-theme",
+      "ms-kubernetes-tools.vscode-kubernetes-tools",
+      "redhat.vscode-yaml",
+      "yzhang.markdown-all-in-one"
+    ]
+  }
+}
