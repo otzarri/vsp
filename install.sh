@@ -13,3 +13,4 @@ mkdir ${HOME}/.config/vsp
 curl -Ls "https://raw.githubusercontent.com/josebamartos/vsp/master/config.json" -o ${HOME}/.config/vsp/config.json
 curl -Ls "https://raw.githubusercontent.com/josebamartos/vsp/master/vsp.sh" -o /usr/local/bin/vsp
 chmod +x /usr/local/bin/vsp
+echo "Installation done"
